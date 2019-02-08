@@ -1,1 +1,2 @@
-* linguist-language=React
+* linguist-vendored
+*.js linguist-vendored=false
